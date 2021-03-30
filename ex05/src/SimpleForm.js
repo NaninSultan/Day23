@@ -16,7 +16,7 @@ class SimpleForm extends Component {
                 <p>First name:</p>
                 <input
                 type='text'
-                onChange={this.onChangeHandler} />
+                onChange={this.onChangeHandler}/>
             </form>
         )
     }
